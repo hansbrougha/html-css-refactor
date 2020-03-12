@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Put elements before classes then ids if there are any */
 body {
     background-color: #d9dcd6;
 }
@@ -91,6 +91,8 @@ p {
     color: #ffffff;
 }
 
+
+/* Combine Beneft Sections. Combine benefit h3 classes */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -161,6 +163,7 @@ p {
     color: #ffffff;
 }
 
+/* Combine CSS for each image because they are the same */
 .search-engine-optimization img {
     max-height: 200px;
 }
