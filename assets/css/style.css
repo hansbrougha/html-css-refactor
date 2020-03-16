@@ -30,6 +30,8 @@ p {
 .header h1 .seo {
     color: #b8c6d8f3;  
 }
+
+/* Header Nav container */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,7 +88,7 @@ p {
 }
 
 /* Horiseon Benefits */
-.aside {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -110,7 +112,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer Classes */
+/* Horiseon Footer */
 .footer {
     padding: 30px;
     clear: both;
